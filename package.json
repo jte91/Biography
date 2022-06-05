@@ -1,0 +1,13 @@
+{
+  "name": "personal-website",
+  "version": "0.0.0",
+  "description": "PersonalWebsite",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
